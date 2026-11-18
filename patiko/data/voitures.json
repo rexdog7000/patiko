@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "marque": "Renault",
+    "modele": "Clio V",
+    "annee": 2021,
+    "km": 42000,
+    "prix": 13990,
+    "carburant": "Essence",
+    "boite": "Manuelle",
+    "puissance": 100,
+    "couleur": "Gris",
+    "badge": "Garantie",
+    "description": "Renault Clio V de 2021, 42 000 km au compteur, moteur essence de 100 ch avec boîte manuelle. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Aide au stationnement",
+      "Caméra de recul",
+      "GPS intégré"
+    ],
+    "images": [
+      "images/voitures/renault-clio-v-2021/1.jpg",
+      "images/voitures/renault-clio-v-2021/2.jpg",
+      "images/voitures/renault-clio-v-2021/3.jpg",
+      "images/voitures/renault-clio-v-2021/4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "marque": "Peugeot",
+    "modele": "208",
+    "annee": 2022,
+    "km": 28000,
+    "prix": 15490,
+    "carburant": "Essence",
+    "boite": "Automatique",
+    "puissance": 130,
+    "couleur": "Bleu",
+    "badge": "",
+    "description": "Peugeot 208 de 2022, 28 000 km au compteur, moteur essence de 130 ch avec boîte automatique. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Caméra de recul",
+      "GPS intégré",
+      "Sièges chauffants",
+      "Apple CarPlay / Android Auto"
+    ],
+    "images": [
+      "images/voitures/peugeot-208-2022/1.jpg",
+      "images/voitures/peugeot-208-2022/2.jpg",
+      "images/voitures/peugeot-208-2022/3.jpg",
+      "images/voitures/peugeot-208-2022/4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "marque": "Citroën",
+    "modele": "C3",
+    "annee": 2020,
+    "km": 51000,
+    "prix": 10990,
+    "carburant": "Essence",
+    "boite": "Manuelle",
+    "puissance": 83,
+    "couleur": "Blanc",
+    "badge": "Bonne affaire",
+    "description": "Citroën C3 de 2020, 51 000 km au compteur, moteur essence de 83 ch avec boîte manuelle. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Régulateur de vitesse",
+      "Aide au stationnement",
+      "Caméra de recul",
+      "GPS intégré",
+      "Sièges chauffants"
+    ],
+    "images": [
+      "images/voitures/citroen-c3-2020/1.jpg",
+      "images/voitures/citroen-c3-2020/2.jpg",
+      "images/voitures/citroen-c3-2020/3.jpg",
+      "images/voitures/citroen-c3-2020/4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "marque": "Volkswagen",
+    "modele": "Golf 8",
+    "annee": 2021,
+    "km": 47000,
+    "prix": 20990,
+    "carburant": "Diesel",
+    "boite": "Manuelle",
+    "puissance": 115,
+    "couleur": "Noir",
+    "badge": "",
+    "description": "Volkswagen Golf 8 de 2021, 47 000 km au compteur, moteur diesel de 115 ch avec boîte manuelle. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Aide au stationnement",
+      "Caméra de recul"
+    ],
+    "images": [
+      "images/voitures/volkswagen-golf-8-2021/1.jpg",
+      "images/voitures/volkswagen-golf-8-2021/2.jpg",
+      "images/voitures/volkswagen-golf-8-2021/3.jpg",
+      "images/voitures/volkswagen-golf-8-2021/4.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "marque": "Dacia",
+    "modele": "Sandero",
+    "annee": 2022,
+    "km": 19000,
+    "prix": 11990,
+    "carburant": "GPL",
+    "boite": "Manuelle",
+    "puissance": 100,
+    "couleur": "Rouge",
+    "badge": "Nouveau",
+    "description": "Dacia Sandero de 2022, 19 000 km au compteur, moteur gpl de 100 ch avec boîte manuelle. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Caméra de recul",
+      "GPS intégré",
+      "Sièges chauffants"
+    ],
+    "images": [
+      "images/voitures/dacia-sandero-2022/1.jpg",
+      "images/voitures/dacia-sandero-2022/2.jpg",
+      "images/voitures/dacia-sandero-2022/3.jpg",
+      "images/voitures/dacia-sandero-2022/4.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "marque": "Toyota",
+    "modele": "Yaris",
+    "annee": 2021,
+    "km": 36000,
+    "prix": 16990,
+    "carburant": "Hybride",
+    "boite": "Automatique",
+    "puissance": 116,
+    "couleur": "Blanc",
+    "badge": "Garantie",
+    "description": "Toyota Yaris de 2021, 36 000 km au compteur, moteur hybride de 116 ch avec boîte automatique. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Régulateur de vitesse",
+      "Aide au stationnement",
+      "Caméra de recul",
+      "GPS intégré"
+    ],
+    "images": [
+      "images/voitures/toyota-yaris-2021/1.jpg",
+      "images/voitures/toyota-yaris-2021/2.jpg",
+      "images/voitures/toyota-yaris-2021/3.jpg",
+      "images/voitures/toyota-yaris-2021/4.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "marque": "Peugeot",
+    "modele": "3008",
+    "annee": 2020,
+    "km": 68000,
+    "prix": 21490,
+    "carburant": "Diesel",
+    "boite": "Automatique",
+    "puissance": 130,
+    "couleur": "Gris",
+    "badge": "",
+    "description": "Peugeot 3008 de 2020, 68 000 km au compteur, moteur diesel de 130 ch avec boîte automatique. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Aide au stationnement",
+      "Caméra de recul",
+      "GPS intégré",
+      "Sièges chauffants",
+      "Apple CarPlay / Android Auto"
+    ],
+    "images": [
+      "images/voitures/peugeot-3008-2020/1.jpg",
+      "images/voitures/peugeot-3008-2020/2.jpg",
+      "images/voitures/peugeot-3008-2020/3.jpg",
+      "images/voitures/peugeot-3008-2020/4.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "marque": "Renault",
+    "modele": "Captur",
+    "annee": 2021,
+    "km": 39000,
+    "prix": 17490,
+    "carburant": "Hybride",
+    "boite": "Automatique",
+    "puissance": 160,
+    "couleur": "Vert",
+    "badge": "",
+    "description": "Renault Captur de 2021, 39 000 km au compteur, moteur hybride de 160 ch avec boîte automatique. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Caméra de recul",
+      "GPS intégré"
+    ],
+    "images": [
+      "images/voitures/renault-captur-2021/1.jpg",
+      "images/voitures/renault-captur-2021/2.jpg",
+      "images/voitures/renault-captur-2021/3.jpg",
+      "images/voitures/renault-captur-2021/4.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "marque": "Tesla",
+    "modele": "Model 3",
+    "annee": 2021,
+    "km": 55000,
+    "prix": 27990,
+    "carburant": "Électrique",
+    "boite": "Automatique",
+    "puissance": 283,
+    "couleur": "Blanc",
+    "badge": "Nouveau",
+    "description": "Tesla Model 3 de 2021, 55 000 km au compteur, moteur électrique de 283 ch avec boîte automatique. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Régulateur de vitesse",
+      "Aide au stationnement",
+      "Caméra de recul"
+    ],
+    "images": [
+      "images/voitures/tesla-model-3-2021/1.jpg",
+      "images/voitures/tesla-model-3-2021/2.jpg",
+      "images/voitures/tesla-model-3-2021/3.jpg",
+      "images/voitures/tesla-model-3-2021/4.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "marque": "BMW",
+    "modele": "Série 1",
+    "annee": 2020,
+    "km": 61000,
+    "prix": 22990,
+    "carburant": "Diesel",
+    "boite": "Automatique",
+    "puissance": 150,
+    "couleur": "Noir",
+    "badge": "",
+    "description": "BMW Série 1 de 2020, 61 000 km au compteur, moteur diesel de 150 ch avec boîte automatique. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Aide au stationnement",
+      "Caméra de recul",
+      "GPS intégré",
+      "Sièges chauffants"
+    ],
+    "images": [
+      "images/voitures/bmw-serie-1-2020/1.jpg",
+      "images/voitures/bmw-serie-1-2020/2.jpg",
+      "images/voitures/bmw-serie-1-2020/3.jpg",
+      "images/voitures/bmw-serie-1-2020/4.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "marque": "Fiat",
+    "modele": "500",
+    "annee": 2019,
+    "km": 44000,
+    "prix": 9990,
+    "carburant": "Essence",
+    "boite": "Manuelle",
+    "puissance": 69,
+    "couleur": "Rouge",
+    "badge": "Bonne affaire",
+    "description": "Fiat 500 de 2019, 44 000 km au compteur, moteur essence de 69 ch avec boîte manuelle. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Caméra de recul",
+      "GPS intégré",
+      "Sièges chauffants",
+      "Apple CarPlay / Android Auto",
+      "Feux LED"
+    ],
+    "images": [
+      "images/voitures/fiat-500-2019/1.jpg",
+      "images/voitures/fiat-500-2019/2.jpg",
+      "images/voitures/fiat-500-2019/3.jpg",
+      "images/voitures/fiat-500-2019/4.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "marque": "Ford",
+    "modele": "Puma",
+    "annee": 2021,
+    "km": 33000,
+    "prix": 18490,
+    "carburant": "Hybride",
+    "boite": "Manuelle",
+    "puissance": 125,
+    "couleur": "Bleu",
+    "badge": "Garantie",
+    "description": "Ford Puma de 2021, 33 000 km au compteur, moteur hybride de 125 ch avec boîte manuelle. Véhicule révisé et contrôlé en 120 points, carnet d’entretien à jour, deux clés. Essai possible sur rendez-vous.",
+    "equipements": [
+      "Climatisation",
+      "Bluetooth",
+      "Régulateur de vitesse",
+      "Aide au stationnement"
+    ],
+    "images": [
+      "images/voitures/ford-puma-2021/1.jpg",
+      "images/voitures/ford-puma-2021/2.jpg",
+      "images/voitures/ford-puma-2021/3.jpg",
+      "images/voitures/ford-puma-2021/4.jpg"
+    ]
+  }
+]

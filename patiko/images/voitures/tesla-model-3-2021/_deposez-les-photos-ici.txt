@@ -1,0 +1,2 @@
+Déposez ici les photos de ce véhicule : 1.jpg (photo principale), 2.jpg, 3.jpg, 4.jpg.
+Format conseillé : JPG, 1600 x 1000 px, moins de 300 Ko chacune.
